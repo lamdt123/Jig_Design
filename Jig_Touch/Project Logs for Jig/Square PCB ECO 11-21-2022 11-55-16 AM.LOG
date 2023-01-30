@@ -1,0 +1,77 @@
+Removed Pin From Net: NetName=GND Pin=J4-2
+Removed Pin From Net: NetName=GND Pin=J4-4
+Removed Pin From Net: NetName=EN_J9 Pin=R1-1
+Removed Pin From Net: NetName=IO0_J9 Pin=R2-1
+Removed Member From Class: ClassName=Sheet1 Member=J4
+Added Component: Designator=1_1(J4)
+Added Component: Designator=D1_1(LED-1206)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Bourns'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SMD-DIODE-SWITCHING-75V-150MA(D1206)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J1_1(J3)
+Added Component: Designator=J2_1(61303021121)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Wurth Elektronik'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "61303021121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J7_1(J4)
+Added Component: Designator=J8_1(J4)
+Added Pin To Net: NetName=3V3_MCU Pin=1_1-1
+Added Pin To Net: NetName=GND Pin=1_1-2
+Added Pin To Net: NetName=TMS Pin=1_1-3
+Added Pin To Net: NetName=TSK Pin=1_1-4
+Added Pin To Net: NetName=GND Pin=D1_1-NEG
+Added Pin To Net: NetName=3V3 Pin=D1_1-POS
+Added Pin To Net: NetName=GND Pin=J1_1-1
+Added Pin To Net: NetName=RXD_J1 Pin=J1_1-2
+Added Pin To Net: NetName=TXD_J1 Pin=J1_1-3
+Added Pin To Net: NetName=GND Pin=J2-24
+Added Pin To Net: NetName=GND Pin=J2-26
+Added Pin To Net: NetName=RST_J7 Pin=J2_1-1
+Added Pin To Net: NetName=3V3 Pin=J2_1-2
+Added Pin To Net: NetName=TST_J7 Pin=J2_1-3
+Added Pin To Net: NetName=GND Pin=J2_1-4
+Added Pin To Net: NetName=3V3_MCU Pin=J2_1-5
+Added Pin To Net: NetName=TMS Pin=J2_1-6
+Added Pin To Net: NetName=GND Pin=J2_1-7
+Added Pin To Net: NetName=TSK Pin=J2_1-8
+Added Pin To Net: NetName=TXD_J1 Pin=J2_1-9
+Added Pin To Net: NetName=GND Pin=J2_1-10
+Added Pin To Net: NetName=RXD_J1 Pin=J2_1-11
+Added Pin To Net: NetName=RX_J9 Pin=J2_1-13
+Added Pin To Net: NetName=3V3 Pin=J2_1-14
+Added Pin To Net: NetName=TX_J9 Pin=J2_1-15
+Added Pin To Net: NetName=IO0_J9 Pin=J2_1-16
+Added Pin To Net: NetName=GND Pin=J2_1-17
+Added Pin To Net: NetName=EN_J9 Pin=J2_1-18
+Added Pin To Net: NetName=3V3 Pin=J2_1-19
+Added Pin To Net: NetName=RX_J8 Pin=J2_1-20
+Added Pin To Net: NetName=GND Pin=J2_1-21
+Added Pin To Net: NetName=TX_J8 Pin=J2_1-22
+Added Pin To Net: NetName=GND Pin=J7_1-1
+Added Pin To Net: NetName=3V3 Pin=J7_1-2
+Added Pin To Net: NetName=TST_J7 Pin=J7_1-3
+Added Pin To Net: NetName=RST_J7 Pin=J7_1-4
+Added Pin To Net: NetName=3V3 Pin=J8_1-1
+Added Pin To Net: NetName=GND Pin=J8_1-2
+Added Pin To Net: NetName=RX_J8 Pin=J8_1-3
+Added Pin To Net: NetName=TX_J8 Pin=J8_1-4
+Added Pin To Net: NetName=NetJ2_23 Pin=J2-23
+Added Pin To Net: NetName=NetJ2_23 Pin=R1-2
+Added Net: Name=NetJ2_23
+Added Pin To Net: NetName=NetJ2_25 Pin=J2-25
+Added Pin To Net: NetName=NetJ2_25 Pin=R2-2
+Added Net: Name=NetJ2_25
+Added Member To Class: ClassName=Sheet2 Member=Component 1_1 J
+Added Member To Class: ClassName=Sheet2 Member=Component D1_1 SMD-DIODE-SWITCHING-75V-150MA(D1206)
+Added Member To Class: ClassName=Sheet2 Member=Component J1_1 J
+Added Member To Class: ClassName=Sheet2 Member=Component J2_1 61303021121
+Added Member To Class: ClassName=Sheet2 Member=Component J7_1 J
+Added Member To Class: ClassName=Sheet2 Member=Component J8_1 J
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2

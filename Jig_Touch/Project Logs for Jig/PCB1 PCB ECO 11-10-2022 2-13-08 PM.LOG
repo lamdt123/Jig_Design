@@ -1,0 +1,56 @@
+Removed Pin From Net: NetName=EN Pin=J2-14
+Removed Pin From Net: NetName=IO0 Pin=J2-16
+Removed Pin From Net: NetName=Jig_RXD Pin=J2-18
+Removed Pin From Net: NetName=Jig_TXD Pin=J2-20
+Removed Pin From Net: NetName=Y_Com Pin=J2-22
+Removed Pin From Net: NetName=X_Com Pin=J2-24
+Removed Pin From Net: NetName=INH Pin=J2-26
+Removed Pin From Net: NetName=B Pin=J2-28
+Removed Pin From Net: NetName=A Pin=J2-30
+Removed Pin From Net: NetName=VEE Pin=J2-32
+Removed Pin From Net: NetName=VDD Pin=J2-34
+Removed Pin From Net: NetName=GND Pin=J2-36
+Removed Pin From Net: NetName=3V3 Pin=J2-38
+Removed Pin From Net: NetName=5V Pin=J2-40
+Removed Pin From Net: NetName=TX_J8 Pin=U1-1
+Removed Pin From Net: NetName=TST Pin=U1-5
+Removed Pin From Net: NetName=B Pin=U1-9
+Removed Pin From Net: NetName=A Pin=U1-10
+Removed Pin From Net: NetName=RX_J8 Pin=U1-12
+Removed Pin From Net: NetName=RST Pin=U1-14
+Change Component Footprint: Designator=J2 Old Footprint=TE_5-102570-1 New Footprint=TE_5-87568-6
+Change Component Comment : Designator=J2 Old Comment=5-102570-1 New Comment=5-87568-6
+Change Component Designator: OldDesignator=1_a NewDesignator=1
+Change Component Designator: OldDesignator=J0_a NewDesignator=J0
+Change Component Designator: OldDesignator=J1_a NewDesignator=J1
+Change Component Designator: OldDesignator=J7_a NewDesignator=J7
+Change Component Designator: OldDesignator=J8_a NewDesignator=J8
+Change Component Designator: OldDesignator=J9_a NewDesignator=J9
+Change component parameters: Designator = "J2" ("J2"); Footprint = "TE_5-102570-1"; UniqueID = "\AHPGBQCU" ("\AHPGBQCU")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "{'manufacturer': u'TE Connectivity'}"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "5-87568-6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=J2-1
+Added Pin To Net: NetName=3V3 Pin=J2-2
+Added Pin To Net: NetName=VDD Pin=J2-4
+Added Pin To Net: NetName=VEE Pin=J2-5
+Added Pin To Net: NetName=GND Pin=J2-7
+Added Pin To Net: NetName=Jig_RXD Pin=J2-12
+Added Pin To Net: NetName=Jig_TXD Pin=J2-13
+Added Pin To Net: NetName=Y_Com Pin=J2-14
+Added Pin To Net: NetName=X_Com Pin=J2-15
+Added Pin To Net: NetName=INH Pin=J2-16
+Added Pin To Net: NetName=A Pin=J2-17
+Added Pin To Net: NetName=B Pin=J2-18
+Added Pin To Net: NetName=IO0 Pin=J2-19
+Added Pin To Net: NetName=EN Pin=J2-20
+Added Pin To Net: NetName=TST Pin=U1-1
+Added Pin To Net: NetName=TX_J8 Pin=U1-5
+Added Pin To Net: NetName=A Pin=U1-9
+Added Pin To Net: NetName=B Pin=U1-10
+Added Pin To Net: NetName=RST Pin=U1-12
+Added Pin To Net: NetName=RX_J8 Pin=U1-14
+Added Room: Name=Sheet1

@@ -1,0 +1,16 @@
+Change Component Footprint: Designator=J1 Old Footprint=J4 AC New Footprint=TE_350543-1
+Change Component Footprint: Designator=J2 Old Footprint=TE_350543-1 New Footprint=J4 AC
+Change Component Comment : Designator=J2 Old Comment=350543-1 New Comment=J4 AC
+Change Component Comment : Designator=J1 Old Comment=J4 AC New Comment=350543-1
+Change component parameters: Designator = "J1" ("J1"); Footprint = "J4 AC"; UniqueID = "\VAYTAIIF" ("\VAYTAIIF")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "{'manufacturer': u'TE Connectivity'}"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "350543-1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J2" ("J2"); Footprint = "TE_350543-1"; UniqueID = "\TKLECMCO" ("\TKLECMCO")
+Added Pin To Net: NetName=NetJ1_5 Pin=J1-5
+Added Pin To Net: NetName=NetJ1_6 Pin=J1-6
+Added Pin To Net: NetName=NetJ1_2 Pin=J2-5
+Added Pin To Net: NetName=NetJ1_1 Pin=J2-6

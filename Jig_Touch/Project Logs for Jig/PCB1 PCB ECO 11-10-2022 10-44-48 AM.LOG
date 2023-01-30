@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=5V Pin=J2a-1
+Removed Pin From Net: NetName=3V3 Pin=J2a-2
+Removed Pin From Net: NetName=GND Pin=J2a-3
+Removed Pin From Net: NetName=VDD Pin=J2a-4
+Removed Pin From Net: NetName=VEE Pin=J2a-5
+Removed Pin From Net: NetName=A Pin=J2a-6
+Removed Pin From Net: NetName=B Pin=J2a-7
+Removed Pin From Net: NetName=X_Com Pin=J2a-8
+Removed Pin From Net: NetName=Y_Com Pin=J2a-9
+Removed Pin From Net: NetName=INH Pin=J2a-10
+Removed Pin From Net: NetName=Jig_RXD Pin=J2a-11
+Removed Pin From Net: NetName=Jig_TXD Pin=J2a-12
+Removed Pin From Net: NetName=EN Pin=J2a-13
+Removed Pin From Net: NetName=IO0 Pin=J2a-14
+Removed Member From Class: ClassName=Sheet1 Member=J2a
+Added Component: Designator=J?(TE_5-102570-1)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'TE Connectivity'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "5-102570-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=J?-27
+Added Pin To Net: NetName=3V3 Pin=J?-28
+Added Pin To Net: NetName=GND Pin=J?-29
+Added Pin To Net: NetName=VDD Pin=J?-30
+Added Pin To Net: NetName=VEE Pin=J?-31
+Added Pin To Net: NetName=A Pin=J?-32
+Added Pin To Net: NetName=B Pin=J?-33
+Added Pin To Net: NetName=X_Com Pin=J?-34
+Added Pin To Net: NetName=Y_Com Pin=J?-35
+Added Pin To Net: NetName=INH Pin=J?-36
+Added Pin To Net: NetName=Jig_RXD Pin=J?-37
+Added Pin To Net: NetName=Jig_TXD Pin=J?-38
+Added Pin To Net: NetName=EN Pin=J?-39
+Added Pin To Net: NetName=IO0 Pin=J?-40
+Added Member To Class: ClassName=Sheet1 Member=Component J? 5-102570-1
+Added Room: Name=Sheet1

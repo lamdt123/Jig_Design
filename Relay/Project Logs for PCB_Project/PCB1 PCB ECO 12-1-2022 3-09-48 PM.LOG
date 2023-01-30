@@ -1,0 +1,88 @@
+Removed Pin From Net: NetName=NC8 Pin=J1-2
+Removed Pin From Net: NetName=NC9 Pin=J1-3
+Removed Pin From Net: NetName=NC10 Pin=J1-4
+Removed Pin From Net: NetName=NC11 Pin=J1-5
+Removed Pin From Net: NetName=NC12 Pin=J1-6
+Removed Pin From Net: NetName=NO7 Pin=J1-7
+Removed Pin From Net: NetName=NO8 Pin=J1-8
+Removed Pin From Net: NetName=NO9 Pin=J1-9
+Removed Pin From Net: NetName=NO10 Pin=J1-10
+Removed Pin From Net: NetName=NO11 Pin=J1-11
+Removed Pin From Net: NetName=NC2 Pin=J2-2
+Removed Pin From Net: NetName=NC3 Pin=J2-3
+Removed Pin From Net: NetName=NC4 Pin=J2-4
+Removed Pin From Net: NetName=NC5 Pin=J2-5
+Removed Pin From Net: NetName=NC6 Pin=J2-6
+Removed Pin From Net: NetName=NO1 Pin=J2-7
+Removed Pin From Net: NetName=NO2 Pin=J2-8
+Removed Pin From Net: NetName=NO3 Pin=J2-9
+Removed Pin From Net: NetName=NO4 Pin=J2-10
+Removed Pin From Net: NetName=NO5 Pin=J2-11
+Change Component Footprint: Designator=U1 Old Footprint=QFP50P900X900X160-48N New Footprint=QFN50P700X700X60-49N
+Added Component: Designator=J3(CUI_TB007-508-12BE)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'CUI Devices'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TB007-508-12BE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J4(CUI_TB007-508-12BE)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'CUI Devices'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TB007-508-12BE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NO7 Pin=J1-2
+Added Pin To Net: NetName=NC8 Pin=J1-3
+Added Pin To Net: NetName=NO8 Pin=J1-4
+Added Pin To Net: NetName=NC9 Pin=J1-5
+Added Pin To Net: NetName=NO9 Pin=J1-6
+Added Pin To Net: NetName=NC10 Pin=J1-7
+Added Pin To Net: NetName=NO10 Pin=J1-8
+Added Pin To Net: NetName=NC11 Pin=J1-9
+Added Pin To Net: NetName=NO11 Pin=J1-10
+Added Pin To Net: NetName=NC12 Pin=J1-11
+Added Pin To Net: NetName=NO1 Pin=J2-2
+Added Pin To Net: NetName=NC2 Pin=J2-3
+Added Pin To Net: NetName=NO2 Pin=J2-4
+Added Pin To Net: NetName=NC3 Pin=J2-5
+Added Pin To Net: NetName=NO3 Pin=J2-6
+Added Pin To Net: NetName=NC4 Pin=J2-7
+Added Pin To Net: NetName=NO4 Pin=J2-8
+Added Pin To Net: NetName=NC5 Pin=J2-9
+Added Pin To Net: NetName=NO5 Pin=J2-10
+Added Pin To Net: NetName=NC6 Pin=J2-11
+Added Pin To Net: NetName=NC1 Pin=J3-1
+Added Pin To Net: NetName=NO1 Pin=J3-2
+Added Pin To Net: NetName=NC2 Pin=J3-3
+Added Pin To Net: NetName=NO2 Pin=J3-4
+Added Pin To Net: NetName=NC3 Pin=J3-5
+Added Pin To Net: NetName=NO3 Pin=J3-6
+Added Pin To Net: NetName=NC4 Pin=J3-7
+Added Pin To Net: NetName=NO4 Pin=J3-8
+Added Pin To Net: NetName=NC5 Pin=J3-9
+Added Pin To Net: NetName=NO5 Pin=J3-10
+Added Pin To Net: NetName=NC6 Pin=J3-11
+Added Pin To Net: NetName=NO6 Pin=J3-12
+Added Pin To Net: NetName=NC7 Pin=J4-1
+Added Pin To Net: NetName=NO7 Pin=J4-2
+Added Pin To Net: NetName=NC8 Pin=J4-3
+Added Pin To Net: NetName=NO8 Pin=J4-4
+Added Pin To Net: NetName=NC9 Pin=J4-5
+Added Pin To Net: NetName=NO9 Pin=J4-6
+Added Pin To Net: NetName=NC10 Pin=J4-7
+Added Pin To Net: NetName=NO10 Pin=J4-8
+Added Pin To Net: NetName=NC11 Pin=J4-9
+Added Pin To Net: NetName=NO11 Pin=J4-10
+Added Pin To Net: NetName=NC12 Pin=J4-11
+Added Pin To Net: NetName=NO12 Pin=J4-12
+Added Member To Class: ClassName=main Member=Component C11 0.1uF-50V
+Added Member To Class: ClassName=main Member=Component D3 BAS20HT1G
+Added Member To Class: ClassName=main Member=Component J3 TB007-508-12BE
+Added Member To Class: ClassName=main Member=Component J4 TB007-508-12BE
+Added Member To Class: ClassName=main Member=Component K3 Relay
+Added Member To Class: ClassName=main Member=Component Q3 2N7002
+Added Member To Class: ClassName=main Member=Component R3 10K
+Added Member To Class: ClassName=main Member=Component R9 1K
+Added Room: Name=main

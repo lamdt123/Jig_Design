@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=D1-NEG
+Removed Pin From Net: NetName=3V3_MCU Pin=D1-POS
+Added Component: Designator=D1(LED-1206)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Bourns'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SMD-DIODE-SWITCHING-75V-150MA(D1206)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D1-NEG
+Added Pin To Net: NetName=3V3_MCU Pin=D1-POS

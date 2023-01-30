@@ -1,0 +1,102 @@
+Added Component: Designator=1a(J4)
+Added Component: Designator=J0a(J1)
+Added Component: Designator=J1a(J3)
+Added Component: Designator=J2a(TE_5-102570-1)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'TE Connectivity'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "5-102570-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J7a(J4)
+Added Component: Designator=J8a(J4)
+Added Component: Designator=J9a(J6)
+Added Component: Designator=U1(SOIC127P600X175-16N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Texas Instruments'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CD4052BM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=1a-1
+Added Pin To Net: NetName=3V3 Pin=J2a-2
+Added Pin To Net: NetName=3V3 Pin=J7a-2
+Added Pin To Net: NetName=3V3 Pin=J8a-1
+Added Pin To Net: NetName=3V3 Pin=J9a-4
+Added Net: Name=3V3
+Added Pin To Net: NetName=5V Pin=J0a-1
+Added Pin To Net: NetName=5V Pin=J2a-1
+Added Net: Name=5V
+Added Pin To Net: NetName=A Pin=J2a-6
+Added Pin To Net: NetName=A Pin=U1-10
+Added Net: Name=A
+Added Pin To Net: NetName=B Pin=J2a-7
+Added Pin To Net: NetName=B Pin=U1-9
+Added Net: Name=B
+Added Pin To Net: NetName=EN Pin=J2a-13
+Added Pin To Net: NetName=EN Pin=J9a-6
+Added Net: Name=EN
+Added Pin To Net: NetName=GND Pin=1a-2
+Added Pin To Net: NetName=GND Pin=J1a-1
+Added Pin To Net: NetName=GND Pin=J2a-3
+Added Pin To Net: NetName=GND Pin=J7a-1
+Added Pin To Net: NetName=GND Pin=J8a-2
+Added Pin To Net: NetName=GND Pin=J9a-3
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Net: Name=GND
+Added Pin To Net: NetName=INH Pin=U1-6
+Added Net: Name=INH
+Added Pin To Net: NetName=IO0 Pin=J2a-12
+Added Pin To Net: NetName=IO0 Pin=J9a-5
+Added Net: Name=IO0
+Added Pin To Net: NetName=Jig_RXD Pin=J1a-2
+Added Pin To Net: NetName=Jig_RXD Pin=J2a-10
+Added Net: Name=Jig_RXD
+Added Pin To Net: NetName=Jig_TXD Pin=J1a-3
+Added Pin To Net: NetName=Jig_TXD Pin=J2a-11
+Added Net: Name=Jig_TXD
+Added Pin To Net: NetName=RST Pin=J7a-4
+Added Pin To Net: NetName=RST Pin=U1-14
+Added Net: Name=RST
+Added Pin To Net: NetName=RX_J8 Pin=J8a-3
+Added Pin To Net: NetName=RX_J8 Pin=U1-12
+Added Net: Name=RX_J8
+Added Pin To Net: NetName=RX_J9 Pin=J9a-1
+Added Pin To Net: NetName=RX_J9 Pin=U1-4
+Added Net: Name=RX_J9
+Added Pin To Net: NetName=TMS Pin=1a-3
+Added Pin To Net: NetName=TMS Pin=U1-15
+Added Net: Name=TMS
+Added Pin To Net: NetName=TSK Pin=1a-4
+Added Pin To Net: NetName=TSK Pin=U1-2
+Added Net: Name=TSK
+Added Pin To Net: NetName=TST Pin=J7a-3
+Added Pin To Net: NetName=TST Pin=U1-5
+Added Net: Name=TST
+Added Pin To Net: NetName=TX_J8 Pin=J8a-4
+Added Pin To Net: NetName=TX_J8 Pin=U1-1
+Added Net: Name=TX_J8
+Added Pin To Net: NetName=TX_J9 Pin=J9a-2
+Added Pin To Net: NetName=TX_J9 Pin=U1-11
+Added Net: Name=TX_J9
+Added Pin To Net: NetName=VDD Pin=J2a-4
+Added Pin To Net: NetName=VDD Pin=U1-16
+Added Net: Name=VDD
+Added Pin To Net: NetName=VEE Pin=J2a-5
+Added Pin To Net: NetName=VEE Pin=U1-7
+Added Net: Name=VEE
+Added Pin To Net: NetName=X_Com Pin=J2a-8
+Added Pin To Net: NetName=X_Com Pin=U1-13
+Added Net: Name=X_Com
+Added Pin To Net: NetName=Y_Com Pin=J2a-9
+Added Pin To Net: NetName=Y_Com Pin=U1-3
+Added Net: Name=Y_Com
+Added Member To Class: ClassName=Sheet1 Member=Component 1a J
+Added Member To Class: ClassName=Sheet1 Member=Component J0a J
+Added Member To Class: ClassName=Sheet1 Member=Component J1a J
+Added Member To Class: ClassName=Sheet1 Member=Component J2a 5-102570-1
+Added Member To Class: ClassName=Sheet1 Member=Component J7a J
+Added Member To Class: ClassName=Sheet1 Member=Component J8a J
+Added Member To Class: ClassName=Sheet1 Member=Component J9a J
+Added Member To Class: ClassName=Sheet1 Member=Component U1 CD4052BM
+Added Room: Name=Sheet1

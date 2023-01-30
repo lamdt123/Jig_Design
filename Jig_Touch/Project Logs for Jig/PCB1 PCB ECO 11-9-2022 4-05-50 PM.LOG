@@ -1,0 +1,32 @@
+Change Component Footprint: Designator=J1 Old Footprint=JUMP-2.54-3PIN-M-TH New Footprint=J3
+Change Component Footprint: Designator=1 Old Footprint=JUMP-2.54-4PIN-M-TH New Footprint=J4
+Change Component Footprint: Designator=J7 Old Footprint=JUMP-2.54-4PIN-M-TH New Footprint=J4
+Change Component Footprint: Designator=J8 Old Footprint=JUMP-2.54-4PIN-M-TH New Footprint=J4
+Change Component Footprint: Designator=J9 Old Footprint=ZIG-2.54-6PIN New Footprint=J6
+Change Component Comment : Designator=J1 Old Comment=3P2.54 New Comment=J3
+Change Component Comment : Designator=1 Old Comment=4P2.54 New Comment=J4
+Change Component Comment : Designator=J7 Old Comment=4P2.54 New Comment=J4
+Change Component Comment : Designator=J8 Old Comment=4P2.54 New Comment=J4
+Change Component Comment : Designator=J9 Old Comment=6P2.54 New Comment=J6
+Change Component Kind : Designator=J9 Old Kind=Standard (No BOM) New Kind=Standard
+Change component parameters: Designator = "J9" ("J9"); Footprint = "ZIG-2.54-6PIN"; UniqueID = "\PWGDGFAE" ("\PWGDGFAE")
+Change component parameters: Designator = "J1" ("J1"); Footprint = "JUMP-2.54-3PIN-M-TH"; UniqueID = "\XFGSXVVH" ("\XFGSXVVH")
+Change component parameters: Designator = "1" ("1"); Footprint = "JUMP-2.54-4PIN-M-TH"; UniqueID = "\VZVMMAGI" ("\VZVMMAGI")
+Change component parameters: Designator = "J7" ("J7"); Footprint = "JUMP-2.54-4PIN-M-TH"; UniqueID = "\UWFGWMJB" ("\UWFGWMJB")
+Change component parameters: Designator = "J8" ("J8"); Footprint = "JUMP-2.54-4PIN-M-TH"; UniqueID = "\PSHIFBFV" ("\PSHIFBFV")
+Added Component: Designator=U?(SOP65P640X120-20N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Texas Instruments'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SN74HC245PW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U?(SOP65P640X120-20N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Texas Instruments'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SN74HC245PW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1

@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=TX_J8 Pin=U1-1
+Removed Pin From Net: NetName=TST Pin=U1-5
+Removed Pin From Net: NetName=RX_J8 Pin=U1-12
+Removed Pin From Net: NetName=RST Pin=U1-14
+Added Pin To Net: NetName=TST Pin=U1-1
+Added Pin To Net: NetName=TX_J8 Pin=U1-5
+Added Pin To Net: NetName=RST Pin=U1-12
+Added Pin To Net: NetName=RX_J8 Pin=U1-14
+Added Room: Name=Sheet1

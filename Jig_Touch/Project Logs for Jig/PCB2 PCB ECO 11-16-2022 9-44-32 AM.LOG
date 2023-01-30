@@ -1,0 +1,127 @@
+Removed Pin From Net: NetName=3V3_MCU Pin=J2_1-15
+Removed Pin From Net: NetName=GND Pin=J2_1-16
+Removed Pin From Net: NetName=3V3 Pin=J2_1-19
+Removed Pin From Net: NetName=TSK Pin=U1_1-2
+Removed Pin From Net: NetName=RX_J9 Pin=U1_1-4
+Removed Pin From Net: NetName=TX_J8 Pin=U1_1-5
+Removed Pin From Net: NetName=GND Pin=U1_1-8
+Removed Pin From Net: NetName=TX_J9 Pin=U1_1-11
+Removed Pin From Net: NetName=RX_J8 Pin=U1_1-14
+Removed Pin From Net: NetName=TMS Pin=U1_1-15
+Removed Member From Class: ClassName=Sheet2 Member=J0_1
+Removed Member From Class: ClassName=Sheet2 Member=U1_1
+Added Component: Designator=1(J4)
+Added Component: Designator=D1_1(LED-1206)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Bourns'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SMD-DIODE-SWITCHING-75V-150MA(D1206)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D1(LED-1206)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Bourns'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SMD-DIODE-SWITCHING-75V-150MA(D1206)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J1(J3)
+Added Component: Designator=J2_1(61303021121)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Wurth Elektronik'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "61303021121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J2(61303021121)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Wurth Elektronik'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "61303021121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J7(J4)
+Added Component: Designator=J8(J4)
+Added Pin To Net: NetName=3V3_MCU Pin=1-1
+Added Pin To Net: NetName=GND Pin=1-2
+Added Pin To Net: NetName=TMS Pin=1-3
+Added Pin To Net: NetName=TSK Pin=1-4
+Added Pin To Net: NetName=GND Pin=D1-NEG
+Added Pin To Net: NetName=3V3 Pin=D1-POS
+Added Pin To Net: NetName=GND Pin=D1_1-NEG
+Added Pin To Net: NetName=3V3 Pin=D1_1-POS
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=3V3 Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J2-4
+Added Pin To Net: NetName=3V3_MCU Pin=J2-5
+Added Pin To Net: NetName=TMS Pin=J2-6
+Added Pin To Net: NetName=GND Pin=J2-7
+Added Pin To Net: NetName=TSK Pin=J2-8
+Added Pin To Net: NetName=GND Pin=J2-10
+Added Pin To Net: NetName=RX_J9 Pin=J2-13
+Added Pin To Net: NetName=3V3 Pin=J2-14
+Added Pin To Net: NetName=TX_J9 Pin=J2-15
+Added Pin To Net: NetName=GND Pin=J2-17
+Added Pin To Net: NetName=3V3 Pin=J2-19
+Added Pin To Net: NetName=RX_J8 Pin=J2-20
+Added Pin To Net: NetName=GND Pin=J2-21
+Added Pin To Net: NetName=TX_J8 Pin=J2-22
+Added Pin To Net: NetName=3V3 Pin=J2_1-2
+Added Pin To Net: NetName=GND Pin=J2_1-4
+Added Pin To Net: NetName=3V3_MCU Pin=J2_1-5
+Added Pin To Net: NetName=TMS Pin=J2_1-6
+Added Pin To Net: NetName=GND Pin=J2_1-7
+Added Pin To Net: NetName=TSK Pin=J2_1-8
+Added Pin To Net: NetName=GND Pin=J2_1-10
+Added Pin To Net: NetName=RX_J9 Pin=J2_1-13
+Added Pin To Net: NetName=3V3 Pin=J2_1-14
+Added Pin To Net: NetName=TX_J9 Pin=J2_1-15
+Added Pin To Net: NetName=GND Pin=J2_1-17
+Added Pin To Net: NetName=3V3 Pin=J2_1-19
+Added Pin To Net: NetName=RX_J8 Pin=J2_1-20
+Added Pin To Net: NetName=GND Pin=J2_1-21
+Added Pin To Net: NetName=TX_J8 Pin=J2_1-22
+Added Pin To Net: NetName=GND Pin=J7-1
+Added Pin To Net: NetName=3V3 Pin=J7-2
+Added Pin To Net: NetName=3V3 Pin=J7_1-2
+Added Pin To Net: NetName=3V3 Pin=J8-1
+Added Pin To Net: NetName=GND Pin=J8-2
+Added Pin To Net: NetName=RX_J8 Pin=J8-3
+Added Pin To Net: NetName=TX_J8 Pin=J8-4
+Added Pin To Net: NetName=EN_J9 Pin=J2-18
+Added Pin To Net: NetName=EN_J9 Pin=J2_1-18
+Added Pin To Net: NetName=EN_J9 Pin=J9_1-6
+Added Net: Name=EN_J9
+Added Pin To Net: NetName=IO0_J9 Pin=J2-16
+Added Pin To Net: NetName=IO0_J9 Pin=J2_1-16
+Added Pin To Net: NetName=IO0_J9 Pin=J9_1-5
+Added Net: Name=IO0_J9
+Added Pin To Net: NetName=RST_J7 Pin=J2-1
+Added Pin To Net: NetName=RST_J7 Pin=J2_1-1
+Added Pin To Net: NetName=RST_J7 Pin=J7-4
+Added Pin To Net: NetName=RST_J7 Pin=J7_1-4
+Added Net: Name=RST_J7
+Added Pin To Net: NetName=RXD_J1 Pin=J1-2
+Added Pin To Net: NetName=RXD_J1 Pin=J1_1-2
+Added Pin To Net: NetName=RXD_J1 Pin=J2-11
+Added Pin To Net: NetName=RXD_J1 Pin=J2_1-11
+Added Net: Name=RXD_J1
+Added Pin To Net: NetName=TST_J7 Pin=J2-3
+Added Pin To Net: NetName=TST_J7 Pin=J2_1-3
+Added Pin To Net: NetName=TST_J7 Pin=J7-3
+Added Pin To Net: NetName=TST_J7 Pin=J7_1-3
+Added Net: Name=TST_J7
+Added Pin To Net: NetName=TXD_J1 Pin=J1-3
+Added Pin To Net: NetName=TXD_J1 Pin=J1_1-3
+Added Pin To Net: NetName=TXD_J1 Pin=J2-9
+Added Pin To Net: NetName=TXD_J1 Pin=J2_1-9
+Added Net: Name=TXD_J1
+Added Member To Class: ClassName=Sheet1 Member=Component 1 J
+Added Member To Class: ClassName=Sheet2 Member=Component D1_1 SMD-DIODE-SWITCHING-75V-150MA(D1206)
+Added Member To Class: ClassName=Sheet1 Member=Component D1 SMD-DIODE-SWITCHING-75V-150MA(D1206)
+Added Member To Class: ClassName=Sheet1 Member=Component J1 J
+Added Member To Class: ClassName=Sheet1 Member=Component J2 61303021121
+Added Member To Class: ClassName=Sheet1 Member=Component J7 J
+Added Member To Class: ClassName=Sheet1 Member=Component J8 J
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2
